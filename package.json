@@ -22,7 +22,7 @@
     "@layer0/cli": "^3.6.0",
     "@layer0/core": "^3.6.0",
     "@layer0/devtools": "^3.6.0",
-    "@layer0/nuxt": "^3.6.0",
+    "@layer0/nuxt": "^3.16.2",
     "@layer0/prefetch": "^3.6.0",
     "@layer0/vue": "^3.6.0",
     "@nuxt/types": "^2.14.6",
