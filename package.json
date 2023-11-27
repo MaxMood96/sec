@@ -16,10 +16,10 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "@nuxt/core": "^2.14.6"
+    "@nuxt/core": "^2.15.0"
   },
   "devDependencies": {
-    "@layer0/cli": "^3.6.0",
+    "@layer0/cli": "^4.19.5",
     "@layer0/core": "^3.6.0",
     "@layer0/devtools": "^3.6.0",
     "@layer0/nuxt": "^3.6.0",
@@ -31,7 +31,7 @@
     "@nuxtjs/eslint-config": "^3.1.0",
     "@nuxtjs/eslint-config-typescript": "^3.0.0",
     "@nuxtjs/eslint-module": "^2.0.0",
-    "@nuxtjs/tailwindcss": "^3.1.0",
+    "@nuxtjs/tailwindcss": "^4.0.0",
     "axios": "^0.21.0",
     "babel-eslint": "^10.1.0",
     "core-js": "^3.6.5",
@@ -39,7 +39,7 @@
     "eslint-config-prettier": "^6.12.0",
     "eslint-plugin-nuxt": "^1.0.0",
     "eslint-plugin-prettier": "^3.1.4",
-    "nuxt": "^2.14.6",
+    "nuxt": "^3.0.0",
     "raw-loader": "^4.0.2"
   }
 }
